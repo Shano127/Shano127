@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
+<img src=" ![logo] ![image](https://github.com/Shano127/Shano127/assets/153290098/d9b81b1e-4070-4055-8607-edfcc860f5f6) />
 <h1 align="center">Hi 👋, I'm Shano</h1>
 <h3 align="center">A passionate web developer.</h3> <br/>
 <img align="right" alt="Coding" width="400" 
