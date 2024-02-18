@@ -1,5 +1,4 @@
-![image](https://github.com/Shano127/Shano127/assets/153290098/849df54a-027a-47c8-84f1-43bfd5f2e647)
-
+![image](https://github.com/Shano127/Shano127/assets/153290098/27cf9e16-a6da-44b9-b8fe-7d1e1170f671)
 
 <h1 align="center">Hi 👋, I'm Shano</h1>
 <h3 align="center">A passionate web developer.</h3> <br/>
