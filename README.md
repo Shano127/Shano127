@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Shano</h1>
 <h3 align="center">A passionate web developer.</h3> <br/>
-<img align="right" alt="Coding" width="400" 
-src="![image](https://github.com/Shano127/Shano127/assets/153290098/6b33a4b5-6d31-48d0-9d4d-6d46a6e4588c)
- />
+ 
+![image](https://github.com/Shano127/Shano127/assets/153290098/6b33a4b5-6d31-48d0-9d4d-6d46a6e4588c)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shano127&label=Profile%20views&color=0e75b6&style=flat" alt="shano127" /> </p>
 
